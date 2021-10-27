@@ -37,7 +37,7 @@ pip install TSMRS
 TSMRS.py
 
 For example, we will check the username on Snapchat
-```
+```python 
 python3 TSMRS.py 
 
 from TSMRS import check
