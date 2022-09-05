@@ -5,7 +5,7 @@
 <p align="center">
 <a href="#"><img title="Made in UAE" src="https://img.shields.io/badge/MADE%20IN-UAE-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Made in IRAQ" src="https://img.shields.io/badge/MADE%20IN-IRAQ-red.svg?style=for-the-badge&logo=github"></a>
-[![Downloads](https://pepy.tech/badge/tsmrs)](https://pepy.tech/project/tsmrs)
+
 </p>
 <p align="center">
   <img alt="SidraELEzz' Github Stats" src="https://github-readme-stats.vercel.app/api?username=SidraELEzz&show_icons=true&include_all_commits=true&hide_border=true" />
